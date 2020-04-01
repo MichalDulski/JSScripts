@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Usuwanie tego głupiego znaku wodnego ze strony Dr. Inż. Michała Rena
+// @name         Usuwanie tego męczącego znaku wodnego ze strony Dr. Inż. Michała Rena
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Prosty skrypt usuwający znaki wodne ze strony renmich.faculty.wmi.amu.edu.pl
